@@ -16,11 +16,9 @@
 
 - **Języki programowania:** Python, Bash, JavaScript
 - **Narzędzia:** Git, Docker, Terraform
-- **Systemy operacyjne:** Linux, macOS
+- **Systemy operacyjne:** Unix, Linux
 
 ## 📫 Kontakt
 
-- 💬 **E-mail:** twoj.email@example.com
-- 🔗 **LinkedIn:** [Twój profil LinkedIn](https://linkedin.com/in/twojprofil)
-
-Dziękuję za odwiedziny! Zachęcam do przeglądania moich projektów i zapraszam do kontaktu!
+- 💬 **E-mail:** sebastian.koziatek@sadmin.pl
+- 🔗 **LinkedIn:** [Twój profil LinkedIn](https://www.linkedin.com/in/sebastiankoziatek/)
