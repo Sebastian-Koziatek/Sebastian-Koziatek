@@ -1,4 +1,4 @@
-<h2 align="left">## 👨‍💻 Hello there! 🎓
+<h2 align="left"> 👨‍💻 Hello there! 🎓
 
 With over 15 years in the IT industry, I specialize in designing, developing, and maintaining **scalable, high-availability server infrastructures**. 🚀 I’m highly skilled in **cloud technologies** (Azure ☁️), **container orchestration** (Kubernetes, Docker 🐳), and **infrastructure automation** (Terraform, Ansible 🤖). Currently working as a **Senior DevOps Engineer**, I lead DevOps initiatives, automate systems, and enhance CI/CD pipelines. In addition, I share my knowledge as an **IT Instructor**, teaching **Linux**, **Docker**, **Kubernetes**, and **Zabbix** to professionals. 🎓
 
