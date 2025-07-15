@@ -9,36 +9,29 @@ In addition, I share my knowledge as an **IT Instructor**, teaching **Linux**, *
 
 ---
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="Kubernetes" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="Grafana" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="Terraform" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="AWS" /></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/ansible/EE0000" height="30" alt="Ansible" /></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/prometheus/E6522C" height="30" alt="Prometheus" /></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/redhat/EE0000" height="30" alt="RedHat" /></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="Ubuntu" /></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/alpinelinux/0D597F" height="30" alt="Alpine" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/gentoo/54487A" height="30" alt="Gentoo" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="30" alt="CentOS" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="Windows" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" height="30" alt="Git" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=gitlab" height="30" alt="GitLab" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="Slack" /></td>
-    <td colspan="5"></td>
-  </tr>
-</table>
+<div align="center">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="Kubernetes" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="Grafana" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="Terraform" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="AWS" />&nbsp;
+  <img src="https://cdn.simpleicons.org/ansible/EE0000" height="30" alt="Ansible" />&nbsp;
+  <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="30" alt="Prometheus" />&nbsp;
+  <img src="https://cdn.simpleicons.org/redhat/EE0000" height="30" alt="RedHat" />&nbsp;
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="Ubuntu" />&nbsp;
+  <img src="https://cdn.simpleicons.org/alpinelinux/0D597F" height="30" alt="Alpine" />&nbsp;
+  <img src="https://cdn.simpleicons.org/gentoo/54487A" height="30" alt="Gentoo" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="30" alt="CentOS" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="Windows" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=gitlab" height="30" alt="GitLab" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="Slack" />&nbsp;
+
+</div>
 
 ---
 
