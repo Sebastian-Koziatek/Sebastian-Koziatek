@@ -50,6 +50,6 @@ I am also an experienced **IT Instructor**, teaching professionals how to work w
 ## 📬 Contact
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sebastiankoziatek/)
-- 📫 Email: (add manually if needed)
+- 📫 Email: sebastian.koziatek@sadmin.pl
 - 🌍 Based in Central Europe | Open to remote work
 
