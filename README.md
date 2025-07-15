@@ -1,40 +1,55 @@
-<h2 align="left"> 👨‍💻 Hello there! :shipit: </h2>
+# 👨‍💻 Sebastian Koziatek
 
-With over 15 years in the IT industry, I specialize in designing, developing, and maintaining **scalable, high-availability server infrastructures**.  
-🚀 I’m highly skilled in **Linux** 🐧, **container orchestration** 🐳, and **infrastructure automation**.  
-Currently working as a **Senior DevOps Engineer**, I lead DevOps initiatives, automate systems and take care of security.  
-In addition, I share my knowledge as an **IT Instructor**, teaching **Linux**, **Docker**, **Kubernetes**, and **Zabbix** to professionals. 🎓
-
-💡 **Technologies:** Linux, Kubernetes, Docker, Terraform, VMware, Proxmox, Ansible, Git, Bash, Python, C++.
+Senior DevOps Engineer | Linux & Infrastructure Specialist | IT Instructor
 
 ---
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="Grafana" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="Terraform" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="AWS" />
-  <img src="https://cdn.simpleicons.org/ansible/EE0000" height="30" alt="Ansible" />
-  <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="30" alt="Prometheus" />
-  <img src="https://cdn.simpleicons.org/redhat/EE0000" height="30" alt="RedHat" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="Ubuntu" />
-  <img src="https://cdn.simpleicons.org/alpinelinux/0D597F" height="30" alt="Alpine" />
-  <img src="https://cdn.simpleicons.org/gentoo/54487A" height="30" alt="Gentoo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="30" alt="CentOS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="Windows" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="30" alt="GitLab" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="Slack" />
-</p>
+## 🚀 About Me
+
+I am a Senior DevOps Engineer with over 15 years of experience in IT infrastructure.  
+I specialize in designing, deploying, and maintaining **scalable, secure, high-availability systems**.
+
+My main focus areas include:
+
+- 🐧 **Linux server administration** (RHEL, Ubuntu, Alpine, Gentoo, CentOS)
+- ☸️ **Container orchestration** (Docker, Kubernetes, Proxmox)
+- ⚙️ **Infrastructure as Code** (Terraform, Ansible)
+- ☁️ **Cloud platforms** (Azure, AWS)
+- 🔐 **Monitoring and Security** (Zabbix, Grafana, Prometheus, AuditD)
+
+Currently working as a **Senior DevOps Engineer**, I lead automation and optimization initiatives and provide secure, maintainable CI/CD solutions.
+
+I am also an experienced **IT Instructor**, teaching professionals how to work with:
+
+- Linux
+- Docker
+- Kubernetes
+- Zabbix
 
 ---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/sebastiankoziatek/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-</div>
+## 🧰 Technologies & Tools
+
+**Infrastructure & Cloud:**  
+`Linux` `Docker` `Kubernetes` `Terraform` `Proxmox` `VMware` `Azure` `AWS`  
+
+**Automation & CI/CD:**  
+`Ansible` `GitHub Actions` `GitLab CI` `Jenkins`  
+
+**Monitoring & Observability:**  
+`Grafana` `Prometheus` `Zabbix` `Fail2ban` `UFW`  
+
+**Languages & Scripting:**  
+`Bash` `Python` `C++`  
+
+**Others:**  
+`Git` `Slack` `Windows Server` `Gentoo` `Alpine`
+
+---
+
+## 📬 Contact
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/sebastiankoziatek/)
+- 📫 Email: (add manually if needed)
+- 🌍 Based in Central Europe | Open to remote work
+
