@@ -9,7 +9,7 @@ In addition, I share my knowledge as an **IT Instructor**, teaching **Linux**, *
 
 ---
 
-<div align="center">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="Kubernetes" />
@@ -29,7 +29,7 @@ In addition, I share my knowledge as an **IT Instructor**, teaching **Linux**, *
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="30" alt="GitLab" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="Slack" />
-</div>
+</p>
 
 ---
 
